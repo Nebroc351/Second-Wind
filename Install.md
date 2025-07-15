@@ -6,8 +6,11 @@ If you find issues or have any question after reading through this guide, feel f
 
 Please use the links below to access the appropriate installation guide for your platform:
 
-  [Wii U](google.com)
+  [Wii U](WiiU.md)
 
-  [Switch](google.com)
+  [Switch](Switch.md)
 
 
+## Credit
+
+A big thank you to Nebroc for consolidating all information and updating the guide with UKMM usage in mind.
