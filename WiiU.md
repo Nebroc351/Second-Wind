@@ -33,6 +33,8 @@ If you’ve already dumped your game using the **Dumpling** method, and you’re
 2. Insert the game disc (if needed) and ensure the game is fully updated with all DLCs.  
    - The title screen should display `ver. 1.5.0` and `DLC ver. 3.0`.
 
+<img width="960" height="540" alt="457677277-a319fe53-0183-4f47-a918-45e3eeeacaf9" src="https://github.com/user-attachments/assets/454436c0-e86d-4e27-8508-99bca25afc5a" />
+
 3. On your Wii U, open the Internet Browser and visit:  
    **https://dumplingapp.com/**  
    Bookmark this URL for convenience.
@@ -41,7 +43,11 @@ If you’ve already dumped your game using the **Dumpling** method, and you’re
 
 5. In Dumpling, choose **Dump a game disc** or **Dump digital games**, depending on your version of BotW.
 
+<img width="1920" height="1080" alt="457677734-7dcf906d-cb6f-4c37-98bd-47648dbc2035" src="https://github.com/user-attachments/assets/d63cc5a5-7c05-49d8-a414-d04638fd2f84" />
+
 6. When prompted, confirm **Yes** to dump the update and DLC files.
+
+<img width="1920" height="1080" alt="457677942-86701335-3334-42c1-b4a3-bc3f0515b916" src="https://github.com/user-attachments/assets/d5044ac4-f60c-4212-bbfc-a273ff471b6e" />
 
 7. Review the settings. In most cases, the default options are ideal:
    - Confirm the **Dump Destination** is your SD card.
@@ -49,6 +55,10 @@ If you’ve already dumped your game using the **Dumpling** method, and you’re
    - Enable **Merge Saves to Default Cemu User** if available.
 
 8. Press `[Confirm]` and wait for the dump to complete (approx. 1–2 hours).
+
+<img width="1920" height="1080" alt="457677955-920aa4f2-a985-4a51-885d-942cff0a9e3a" src="https://github.com/user-attachments/assets/097b2490-2e8d-4853-823a-c658a22f24c6" />
+<img width="1920" height="1080" alt="457677959-84ca91c6-7b8d-4e0d-b604-7bbccf27c982" src="https://github.com/user-attachments/assets/ba6e0774-2fdf-42b7-9813-390d575b9283" />
+<img width="1920" height="1080" alt="457677981-602d1ec2-c5ac-4a8b-a3c2-a74d243b5538" src="https://github.com/user-attachments/assets/da3a4e87-3e8a-4a07-a50a-cc5db915eb1a" />
 
 Once finished, you’ll find a folder named `Dumpling` at the root of your SD card, containing:
 
@@ -85,6 +95,8 @@ Avoid YouTube tutorials—most are outdated or inaccurate.
    - Choose the `.zip` (portable) or `.msi` (installer) for Windows.
 
 2. Open UKMM. Go to the **Settings** tab before managing mods.
+
+<img width="1794" height="1241" alt="457663358-3b8286ad-1313-4a5c-8c9e-8ba52e952af2" src="https://github.com/user-attachments/assets/2b1599c3-3d9f-4d83-a9b4-6fd9e4304651" />
 
    > 💡 Tip: If you close a window or tab by mistake, click `Window > Reset` in the top bar.
 
