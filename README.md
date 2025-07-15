@@ -4,6 +4,8 @@ Second Wind is a large-scale expansion for Breath of the Wild that aims to add n
 
 We hope that many come to see Second Wind as part of the definitive experience while playing Breath of the Wild.
 
+[Click here to access the Installation Guide](Install.md)
+
 Wiki: https://secondwind.fandom.com/wiki/Second_Wind_Wiki
 
 Project Breakdown: https://secondwind.fandom.com/wiki/Project_Breakdown
